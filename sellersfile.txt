@@ -1,0 +1,4 @@
+Seller|id002|Giwrgos|Giwrgou|GM1324918
+Seller|id001|Giannhs|Giannou|AN2312423
+Seller|id004|Geo|Geo|AV2350351
+Seller|id003|Hayate|Kirino|AM4201112

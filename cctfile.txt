@@ -1,0 +1,12 @@
+CreditCardTransaction|C1|-100.0|Withdraw #1
+CreditCardTransaction|C1|50.0|Deposit #2
+CreditCardTransaction|C1|150.0|Deposit #1
+CreditCardTransaction|C2|4500.0|Deposit #2
+CreditCardTransaction|C3|7500.0|Deposit #1
+CreditCardTransaction|C3|-7500.0|Withdraw #1
+CreditCardTransaction|C3|0.01|Deposit #3
+CreditCardTransaction|C2|500.0|Deposit #1
+CreditCardTransaction|C2|0.5|Deposit #3
+CreditCardTransaction|C2|-2500.0|Withdraw #1
+CreditCardTransaction|C1|900.0|Deposit #3
+CreditCardTransaction|C3|1.0|Deposit #2

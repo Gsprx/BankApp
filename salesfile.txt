@@ -1,0 +1,3 @@
+Sale|id002|LL001|Student Loan
+Sale|id001|CC001|Personal Savings Credit Card
+Sale|id003|CC003|Family Spendings Credit Card
